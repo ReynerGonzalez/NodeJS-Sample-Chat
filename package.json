@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-sample-chat",
+  "version": "1.0.0",
+  "description": "Principios de NodeJs implementando un chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Reyner González",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReynerGonzalez/NodeJS-Sample-Chat.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "mongoose": "^5.9.13",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "request": "^2.83.0"
+  }
+}
