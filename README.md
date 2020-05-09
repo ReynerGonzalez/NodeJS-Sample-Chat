@@ -2,7 +2,7 @@
 
 An example of basic programming principles in NodeJs, using as study case a chat development.
 
-![Screenshot](https://raw.githubusercontent.com/reynergonzalez/nodejs-sample-chat/master/assets/screenshot-1.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/ReynerGonzalez/NodeJS-Sample-Chat/master/assets/screenshot-1.png)
 
 ## Installation
 
